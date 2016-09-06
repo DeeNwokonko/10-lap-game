@@ -1,0 +1,6 @@
+c:\users\ndukwe ikedieze\documents\visual studio 2015\Projects\Chidinma\Chidinma\bin\Debug\Chidinma.exe.config
+c:\users\ndukwe ikedieze\documents\visual studio 2015\Projects\Chidinma\Chidinma\bin\Debug\Chidinma.exe
+c:\users\ndukwe ikedieze\documents\visual studio 2015\Projects\Chidinma\Chidinma\bin\Debug\Chidinma.pdb
+c:\users\ndukwe ikedieze\documents\visual studio 2015\Projects\Chidinma\Chidinma\obj\Debug\Chidinma.csprojResolveAssemblyReference.cache
+c:\users\ndukwe ikedieze\documents\visual studio 2015\Projects\Chidinma\Chidinma\obj\Debug\Chidinma.exe
+c:\users\ndukwe ikedieze\documents\visual studio 2015\Projects\Chidinma\Chidinma\obj\Debug\Chidinma.pdb
